@@ -1,0 +1,19 @@
+{
+  "name": "moviesite",
+  "version": "1.0.0",
+  "description": "API moviedb practice",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminZambelli/MovieSite.git"
+  },
+  "author": "Benjamin Zambelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenjaminZambelli/MovieSite/issues"
+  },
+  "homepage": "https://github.com/BenjaminZambelli/MovieSite#readme"
+}
